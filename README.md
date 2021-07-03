@@ -42,7 +42,7 @@
 
   <hr/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samcodee&show_icons=true&theme=react&locale=en&hide_border=true" alt="samcodee" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samcodee&show_icons=true&theme=react&locale=en&hide_border=true&include_all_commits=true&custom_title=Samcodee%27s%20Github%20Stats" alt="samcodee" /></p>
 
 <hr/>
 
