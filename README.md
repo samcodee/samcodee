@@ -21,20 +21,6 @@
 <br />
 
 ---
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/CH-Tamilzha/Github-Pages/pull/1) in [CH-Tamilzha/Github-Pages](https://github.com/CH-Tamilzha/Github-Pages)
-2. 💪 Opened PR [#1](https://github.com/CH-Tamilzha/Github-Pages/pull/1) in [CH-Tamilzha/Github-Pages](https://github.com/CH-Tamilzha/Github-Pages)
-3. ❗️ Closed issue [#2](https://github.com/samcodee/Github-Pages/issues/2) in [samcodee/Github-Pages](https://github.com/samcodee/Github-Pages)
-4. ❗️ Opened issue [#2](https://github.com/samcodee/Github-Pages/issues/2) in [samcodee/Github-Pages](https://github.com/samcodee/Github-Pages)
-5. ❗️ Reopened issue [#1](https://github.com/samcodee/Github-Pages/issues/1) in [samcodee/Github-Pages](https://github.com/samcodee/Github-Pages)
-<!--END_SECTION:activity-->
-
-
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
