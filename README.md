@@ -24,7 +24,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samcodee&show_icons=true&theme=light&locale=en&hide_border=true" alt="samcodee" /></p>
+<!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samcodee&show_icons=true&theme=light&locale=en&hide_border=true" alt="samcodee" /></p> -->
 
   <hr/>
 
