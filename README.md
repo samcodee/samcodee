@@ -4,7 +4,7 @@
 
 - 🔭 I am working on a feature rich Calculator...
 - 🌱 I’m currently learning a little bit of Python and I finished learning JavaScript
-- 🥅 2022 Goals: Create a amazing project... Wait and watch!
+- 🥅 2023 Goals: Learn to update projects regularly
 - 📅 Join Date: I have joined Github on March 21, 2020  
 - 👯 I’m looking to collaborate with others
 
