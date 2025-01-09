@@ -3,8 +3,8 @@
 
 
 - 🔭 I am working on a feature rich project manager...
-- 🌱 I’m currently learning a little bit of object-detection and training
-- 🥅 2024 Goals: Make a blog
+- 🌱 I’m currently learning a little bit of object-detection and training an AI model...
+- 🥅 2025 Goals: Make a blog
 - 📅 Join Date: I have joined Github on March 21, 2020  
 
 <br/>
